@@ -1,6 +1,6 @@
 # 
 
-## Decision Tree ID3 Algorithm
+# Decision Tree ID3 Algorithm
 
 This code implements the ID3 (Iterative Dichotomiser 3) algorithm for building a decision tree. The ID3 algorithm uses the concept of information gain to construct the decision tree.
 
