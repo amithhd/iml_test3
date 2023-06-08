@@ -26,4 +26,4 @@ To use this code, follow these steps:
 
 ### Example
 
-An example of using this code with the "PlayTennis" dataset:
+An example of using this code with the "PlayTennis" dataset.
